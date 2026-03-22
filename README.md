@@ -17,9 +17,7 @@
   * **Admin Dashboard Login:**
     * Google Authentication `(jcesperanza@neu.edu.ph)`
     * Credentials: `2610001` or `jcesperanza@neu.edu.ph`
-    * Password: `jcesperanza`
-
-
+    * Password: <details><summary>Click Here</summary>`jcesperanza`</details>
 ---
 
 ## ✨ Features
